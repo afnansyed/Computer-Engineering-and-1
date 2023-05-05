@@ -1,5 +1,7 @@
 # LifeStylePlus
 
+LifeStylePlus - Final Project for CEN3031
+
      SECTION 1  
 
 ## How solution addressed challenged statement
