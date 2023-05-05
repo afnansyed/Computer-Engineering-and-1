@@ -1,6 +1,6 @@
 # LifeStylePlus
 
-                                                              SECTION 1  
+     SECTION 1  
 
 ## How solution addressed challenged statement
 
@@ -29,7 +29,8 @@ For our project, we used a layered architectural pattern. This model is a way of
 ![usecase](https://user-images.githubusercontent.com/44105687/236565362-357f90cd-74bf-49b6-8684-e3455e019e64.PNG)
 
 
-                                                           SECTION 2
+     SECTION 2
+
 ## Code Management
 
 The source code for the project is stored in a repository on Github. That repository contains all versions of the source code and each team member has their own fork of the original repository.
@@ -149,7 +150,7 @@ Second Code Report:
 There are no bugs in the second report so no explanation is needed.
 
 
-                                                                       SECTION 3
+     SECTION 3
 
 ## Technical Details
 We used Bootstrap 5 as a means of stylizing the website such as the background. Our main IDE of choice was to use Pycharm mainly because we used a Python-based HTML framework to create our website. Django was extremely helpful during the making of our website because it allowed us to more efficiently implement HTML concepts using Python. Some of the packages that we found extremely helpful for our website was matplotlib and base64. Matplotlib is basically a python library that allows for easy display of graphs, while base64 is a library that encodes binary data into printable ASCII characters as well as decoding of ASCII characters to binary data. In terms of the coding languages that we used for this project we mainly used HTML (50% of project), Python (26% of project), and CSS (23% of project). For the system requirements what is needed is an os that is able to download the Django, Bootstrap, Pycharm, and the following packages along with a modern browser so that the website can be opened up through a local hosting. 
@@ -181,7 +182,7 @@ To access the administration area of our website you would first need to sign in
 
 Not applicable.
 
-                                                                 # SECTION 4
+     SECTION 4
 
 ## Risk Management Plan
 
